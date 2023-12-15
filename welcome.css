@@ -7,13 +7,17 @@
 video{
     width: 100%;
 }
-.navbar-expand-lg .navbar-nav .nav-link {
+/* .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 5rem;
     padding-left: 5rem;
     color: #fff;
     font-size: 1.2rem;
+} */
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: white;
 }
-
 .container1{
     background-color: #e8e5e5;
     display: flex;
@@ -26,9 +30,8 @@ video{
 .container1 .title{
     padding: 10% 15%;
 }
-
 .container2{
-    background-color: #eae0e0;
+    background-color: #d4bebe;
     display: flex;
 }
 .container2 img{
@@ -36,25 +39,21 @@ video{
     height: 300px;
     margin: 2% 6%;
 }
-.continer2 .title{
+.container2 .title{
     padding: 10% 15%;
-}
-
-.container3{
-    background-color: #e3d3d3;
+}.container3{
+    background-color: #d2b2b2;
     display: flex;
 }
 .container3 img{
     width: 200px;
     height: 300px;
-    margin: 1% 24%;
+    margin: 2% 6%;
 }
-.continer3 .title{
-    padding:  10% 15%;
-}
-
-.container4{
-    background-color: #e7dcdc;
+.container3 .title{
+    padding: 10% 15%;
+}.container4{
+    background-color: #ded7d7;
     display: flex;
 }
 .container4 img{
@@ -62,6 +61,6 @@ video{
     height: 300px;
     margin: 2% 6%;
 }
-.continer4 .title{
+.container4 .title{
     padding: 10% 15%;
 }
